@@ -1,4 +1,4 @@
-
+#running this main.py file to start the server and press Ctrl++C to stop
 from dotenv import load_dotenv
 load_dotenv()
 
