@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+crewai
+litellm==1.40.4
+pydantic
+python-docx

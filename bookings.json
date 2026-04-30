@@ -1,0 +1,18 @@
+[
+  {
+    "booking_id": "e66b1026-fb72-4ab7-be3b-71cd34479339",
+    "slot_id": "d3-s3",
+    "patient_name": "M Prasad",
+    "patient_phone": "9845636923",
+    "status": "CONFIRMED",
+    "booked_at": "2026-04-30 15:36:24"
+  },
+  {
+    "booking_id": "a70da8a7-1042-4558-a03b-82c69e0da098",
+    "slot_id": "d10-s2",
+    "patient_name": "M Prasad",
+    "patient_phone": "9845636923",
+    "status": "CONFIRMED",
+    "booked_at": "2026-04-30 16:16:22"
+  }
+]
